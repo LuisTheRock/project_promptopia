@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Important data to the project
+
+- Google login to the process of google console cloud
+- DataBase in MongoDB with the name Cluster0
+
 ## Getting Started
 
 First, run the development server:
